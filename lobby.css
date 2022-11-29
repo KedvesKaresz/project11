@@ -1,0 +1,21 @@
+* {
+    text-decoration: none;
+}
+
+html {
+    background-image: url(kepek/lobbybg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parrot {
+    position: absolute;
+    right: 13%;
+    top: 10%;
+}
+
+#monkey {
+    position: absolute;
+    left: 13%;
+    top: 10%;
+}
